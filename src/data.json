@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Finish Data Structures worksheet",
+    "subject": "Data Structures",
+    "dueDate": "2026-10-26",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": "seed-2",
+    "title": "Revise database normalization",
+    "subject": "DBMS",
+    "dueDate": "2026-10-28",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": "seed-3",
+    "title": "Prepare web development notes",
+    "subject": "Web Development",
+    "dueDate": "2026-10-21",
+    "priority": "Low",
+    "completed": true
+  }
+]
